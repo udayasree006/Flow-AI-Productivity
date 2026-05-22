@@ -7,7 +7,6 @@
   const setGlow = (x, y) => {
 
     root.style.setProperty('--glow-x', `${x}px`);
-
     root.style.setProperty('--glow-y', `${y}px`);
 
   };
