@@ -1,180 +1,65 @@
-# Flow — AI Productivity Platform
+# Smart Study Planner 📚✨
 
-A modern and futuristic AI productivity landing page built using HTML, CSS, and JavaScript.
-
-This project presents a premium startup-style user interface designed to demonstrate how AI can help teams manage tasks, improve focus, organize workflows, and increase productivity.
+A modern and responsive productivity website designed for students to organize study tasks, manage time effectively, and improve focus using a clean dashboard interface.
 
 ---
 
-# Project Overview
+## 🚀 Project Overview
 
-Flow is a frontend UI/UX prototype of an AI-powered productivity platform.
+Smart Study Planner is a frontend web project created using HTML, CSS, and JavaScript.
 
-The website showcases:
-- Smart task management
-- AI workflow automation
-- Productivity tracking
-- Interactive dashboard visualization
-- Modern responsive design
+The website provides a visually attractive dashboard that helps students:
 
-The main goal of this project is to create a clean, attractive, and professional landing page experience similar to modern SaaS products.
+- Track study progress
+- View daily focus score
+- Organize important tasks
+- Improve productivity
+- Stay motivated during study sessions
 
----
-
-# Problem Statement
-
-In modern work environments, teams often struggle with:
-- Task overload
-- Poor workflow organization
-- Constant distractions
-- Time management issues
-- Difficulty prioritizing important work
-
-These problems reduce productivity and create workflow inefficiencies.
+This project is designed with a premium modern UI inspired by productivity platforms.
 
 ---
 
-# Proposed Solution
+## 🎯 Problem Statement
 
-Flow provides a modern AI-based productivity experience that helps users:
-- Prioritize tasks automatically
-- Improve focus and productivity
-- Organize workflow efficiently
-- Reduce distractions
-- Save time using AI assistance
+Students often struggle with:
 
-The project visually represents how an AI productivity platform could simplify daily work management.
+- Poor time management
+- Lack of focus during study hours
+- Difficulty organizing daily tasks
+- Managing assignments and deadlines
 
----
-
-# Features
-
-- Modern futuristic UI design
-- Fully responsive layout
-- Interactive glowing mouse effect
-- AI dashboard visualization
-- Glassmorphism design elements
-- Gradient-based premium styling
-- Animated interface components
-- Startup-style landing page structure
+This project solves these problems by providing a centralized digital study planner interface.
 
 ---
 
-# Technologies Used
+## 💡 Proposed Solution
 
-| Technology | Purpose |
-|------------|---------|
-| HTML5 | Structure of the webpage |
-| CSS3 | Styling, layout, animations |
-| JavaScript | Interactive effects and dynamic behavior |
+The Smart Study Planner helps students by:
+
+- Showing task priorities
+- Displaying focus analytics
+- Organizing study activities
+- Providing a distraction-free interface
+- Improving productivity through planning
 
 ---
 
-# Project Structure
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+
+---
+
+## 📂 Project Structure
 
 ```bash
-Flow-AI-Productivity/
+Smart-Study-Planner/
 │
 ├── index.html
-├── styles.css
+├── style.css
 ├── script.js
 └── README.md
-```
-
----
-
-# File Description
-
-## index.html
-Contains the complete structure of the webpage including:
-- Navigation bar
-- Hero section
-- Dashboard cards
-- Buttons
-- Content layout
-
----
-
-## styles.css
-Handles the complete visual appearance of the website including:
-- Colors
-- Layout design
-- Responsive behavior
-- Glassmorphism effects
-- Animations
-- Gradients
-- Typography
-
----
-
-## script.js
-Adds interactivity to the webpage including:
-- Mouse tracking glow effect
-- Dynamic UI behavior
-- Smooth visual interaction
-
----
-
-# How to Run the Project
-
-1. Download or clone the repository
-
-```bash
-git clone https://github.com/your-username/Flow-AI-Productivity.git
-```
-
-2. Open the project folder
-
-3. Run the project by opening:
-
-```bash
-index.html
-```
-
-in any web browser.
-
----
-
-# Output
-
-The final output is a premium AI startup landing page interface that demonstrates:
-- Modern frontend development
-- Interactive UI design
-- Responsive web layout
-- AI productivity dashboard visualization
-
----
-
-# Future Improvements
-
-Possible future enhancements:
-- User authentication system
-- Real AI integration
-- Backend database connectivity
-- Task management functionality
-- Real-time analytics
-- Dark/light theme switching
-
----
-
-# Learning Outcomes
-
-Through this project, the following concepts were practiced:
-- HTML page structuring
-- Advanced CSS styling
-- Responsive web design
-- JavaScript DOM manipulation
-- UI/UX design principles
-- Frontend project organization
-
----
-
-# Author
-
-Udaya Sree
-
----
-
-# License
-
-This project is created for educational and academic purposes.
